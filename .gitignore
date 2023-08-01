@@ -128,3 +128,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+#Instrucción para ignorar el archivo con el API Key para que no se vea de forma pública
+src/secrets.js
